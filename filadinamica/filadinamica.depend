@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1412111372 source:c:\users\gustavo-pc\desktop\filadinamica.c
+	"filadinamica.h"
+	<stdlib.h>
+
+1412111342 c:\users\gustavo-pc\desktop\filadinamica.h
+
